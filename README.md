@@ -1,2 +1,0 @@
-# homework
-Bootcamp Weekly Homework
