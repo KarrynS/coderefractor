@@ -1,6 +1,6 @@
 # 01 Homework Week 1: Code Refractor (HTML CSS GIT)
 
-In this this we are asked to refractor an existing webpage to make it accessible. 
+In this task we are asked to refractor an existing webpage to make it accessible. 
 
 Web accessibility is important for businesses as it ensures people with disabilities and/or socio-economic restrictions have access to their website. 
 
@@ -8,7 +8,7 @@ As front-end and junior developers we are ensuring the code meets certain set of
 
 When working on some else's code apply the Scouts Rule - Always leave the code you are editing a little cleaner than you found it.
 
-# Asigned taks #
+# Assigned taks #
 
 ## User Story
 
